@@ -1,5 +1,7 @@
 body{
-    margin: 0;
+    margin: 0px auto;
+    max-width: 1200px;
+    text-align: ;
 }
 
 header{
@@ -14,18 +16,13 @@ header{
 }
 
 #titolo{
-    margin:0px 5px;
+    margin:0px 0px;
 }
 
 #titolo h1{
     margin: 10px 0px 0px 0px;
     line-height: 30px;
     font-size: 28px;
-}
-
-#titolo h5{
-    margin: 0px 0px 0px 0px;
-    font-size: 13px;
 }
 
 #titolo p{
@@ -35,10 +32,27 @@ header{
 }
     
 #titolo span{
+    font-size:13px
+}
+
+span #celeste {
     color: #3BB3E8;
 }
 
 .photo{
     width: 350px;
-    height: 250px;
+    height: 240px;
 }
+
+main{
+    margin: 0px 7px 0px 7px;
+}
+
+.contenuto{
+    font-size: 11px;
+}
+
+ul{
+    padding: 0px 13px;
+}
+
