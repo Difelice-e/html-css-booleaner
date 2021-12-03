@@ -53,6 +53,28 @@ main{
 }
 
 ul{
-    padding: 0px 13px;
+    padding: 15px 13px;
 }
 
+table{
+    font-size: 11px;
+    border-collapse: collapse;
+    font-weight: 450;
+}
+
+.first{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.second{
+    background-color: #B1E5F2;
+}
+
+.third{
+    background-color: white;
+}
+
+.big{
+    width: 50%;
+}
