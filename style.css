@@ -10,5 +10,35 @@ header{
 
 #logo{
     width: 135px;
-    padding: 32px 0px 5px;
+    padding: 32px 5px 5px;
+}
+
+#titolo{
+    margin:0px 5px;
+}
+
+#titolo h1{
+    margin: 10px 0px 0px 0px;
+    line-height: 30px;
+    font-size: 28px;
+}
+
+#titolo h5{
+    margin: 0px 0px 0px 0px;
+    font-size: 13px;
+}
+
+#titolo p{
+    font-size: 8px;
+    line-height: 8px;
+    margin: 3px 0px 20px 0px;
+}
+    
+#titolo span{
+    color: #3BB3E8;
+}
+
+.photo{
+    width: 350px;
+    height: 250px;
 }
